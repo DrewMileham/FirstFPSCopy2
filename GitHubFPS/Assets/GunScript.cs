@@ -9,6 +9,8 @@ public class GunScript : MonoBehaviour {
 
     public Camera fpsCam;
     public ParticleSystem muzzleflash;
+    
+    
     // Update is called once per frame
 	void Update () {
 
